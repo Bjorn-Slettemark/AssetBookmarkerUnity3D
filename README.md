@@ -1,13 +1,11 @@
 # Asset Bookmarker for Unity3D
 
 
-![card](https://github.com/Bjorn-Slettemark/AssetBookmarker/assets/136645500/d42a99c1-2ae6-462c-84f9-cfa4c6d2a26c)
+![card](https://github.com/Bjorn-Slettemark/AssetBookmarker/assets/136645500/04328541-037c-40db-ae26-60f9526ac1cf)
 
 ## Overview
 
 The Asset Bookmarker is a Unity3D editor extension that enables quick access to frequently used assets, making your project management more efficient.  
-
-![AssetBookmarks](https://github.com/Bjorn-Slettemark/ObjectBookmarks/assets/136645500/4d30343a-e520-4646-9584-dc53323d990c)
 
 ## Features
 
