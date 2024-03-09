@@ -1,8 +1,8 @@
-# Asset Bookmarks Editor for Unity
+# Asset Bookmarker for Unity3D
 
 ## Overview
 
-The Asset Bookmarks Editor is a Unity Editor extension designed to enhance your workflow by allowing you to bookmark assets within the Unity Editor. This tool enables quick access to frequently used assets, making your project management more efficient.
+The Asset Bookmarker is a Unity3D editor extension that enables quick access to frequently used assets, making your project management more efficient.  
 
 ![AssetBookmarks](https://github.com/Bjorn-Slettemark/ObjectBookmarks/assets/136645500/4d30343a-e520-4646-9584-dc53323d990c)
 
@@ -16,7 +16,7 @@ The Asset Bookmarks Editor is a Unity Editor extension designed to enhance your 
 
 ## Installation
 
-To install the Asset Bookmarks Editor, simply copy the provided C# script into your project's `Editor` folder. If the folder does not exist, create it at the root of your `Assets` directory.
+To install the Asset Bookmarker, simply copy the provided C# script into your project's `Editor` folder. If the folder does not exist, create it at the root of your `Assets` directory.
 
 ## Usage
 
@@ -27,11 +27,11 @@ To install the Asset Bookmarks Editor, simply copy the provided C# script into y
 
 ### Viewing and Accessing Bookmarks
 
-Open the Asset Bookmarks window by navigating to `Window > Asset Management > Asset Bookmarks`.
+Open the Asset Bookmarker window by navigating to `Window > Asset Management > Asset Bookmarker`.
 
 ### Sorting Bookmarks
 
-Click on the column headers in the Asset Bookmarks window to sort the bookmarks by Name, Asset, Type, or Time Added. Clicking the same header toggles between ascending and descending order.
+Click on the column headers in the Asset Bookmarker window to sort the bookmarks by Name, Asset, Type, or Time Added. Clicking the same header toggles between ascending and descending order.
 
 ## Compatibility
 
