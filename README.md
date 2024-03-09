@@ -34,6 +34,10 @@ Open the Asset Bookmarker window by navigating to `Window > Asset Management > A
 
 Click on the column headers in the Asset Bookmarker window to sort the bookmarks by Name, Asset, Type, or Time Added. Clicking the same header toggles between ascending and descending order.
 
+## Roadmap
+
+ - [ ] Adding scene references
+
 ## Compatibility
 
 - Unity 2018.4 or later
