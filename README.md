@@ -29,6 +29,10 @@ To install the Asset Bookmarks Editor, simply copy the provided C# script into y
 
 Open the Asset Bookmarks window by navigating to `Window > Asset Management > Asset Bookmarks`.
 
+### Sorting Bookmarks
+
+Click on the column headers in the Asset Bookmarks window to sort the bookmarks by Name, Asset, Type, or Time Added. Clicking the same header toggles between ascending and descending order.
+
 ## Compatibility
 
 - Unity 2018.4 or later
