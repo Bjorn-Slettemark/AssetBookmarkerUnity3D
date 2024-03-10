@@ -36,7 +36,8 @@ Click on the column headers in the Asset Bookmarker window to sort the bookmarks
 
 ## Roadmap
 
- - [ ] Adding scene references
+ - [ ] Scene references
+ - [ ] Unique window instances
 
 ## Compatibility
 
